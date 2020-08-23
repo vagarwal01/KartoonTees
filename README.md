@@ -3,4 +3,4 @@ This is a Java-Firebase based *e-commerce mobile application* which mainly deals
 
 Preview:
 
-![Picture1](Picture1.jpg)
+![Picture1](Picture1.jpg | width=100)
